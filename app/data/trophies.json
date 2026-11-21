@@ -1,0 +1,1111 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-21",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": null,
+   "guide": "The platinum is the last trophy you earn: it pops the moment the other 54 are yours. There is no online trophy and no DLC trophy, so one single-player playthrough is enough.",
+   "steps": [
+    {"text": "Earn the other 54 trophies — the platinum unlocks automatically the moment the last one pops.", "sources": [10, 1, 7]},
+    {"text": "Track the stragglers in this file: the checklist, the roadmap order and the missable watch show what is left.", "sources": [1]}
+   ],
+   "sources": [10, 1],
+   "verdict": {"status": "confirmed", "call": "Confirmed: the platinum pops when the other 54 are earned. The official list and every guide agree on this — there is nothing to dispute.", "note": "All 55 trophies are offline and single-player, so no online or DLC trophy can block it."},
+   "lastChance": "Pops with the 54th trophy — nothing to miss."
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 1,
+   "count": null,
+   "guide": "The opening mission, Gone Fishing, is the first thing you play. Finish it and the trophy pops.",
+   "steps": [
+    {"text": "Play the opening mission, Gone Fishing, in Chapter 1.", "sources": [1, 2]},
+    {"text": "It pops automatically at the mission's end — no side objective is needed.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 1,
+   "count": null,
+   "guide": "Finish Chapter 1. The trophy marks the end of the opening chapter, once you start the first mission of Chapter 2.",
+   "steps": [
+    {"text": "Play through Chapter 1's missions to the end.", "sources": [1, 2]},
+    {"text": "The trophy pops once you finish What's in the Bag?, the first mission of Chapter 2.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete Chapter 2. Like every chapter trophy, it pops from playing the story — there is nothing extra to do.",
+   "steps": [
+    {"text": "Play through Chapter 2's missions to the end.", "sources": [1, 2]},
+    {"text": "The trophy pops at the chapter's end.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete Chapter 3. A story trophy — it pops when the chapter ends.",
+   "steps": [
+    {"text": "Play through Chapter 3's missions to the end.", "sources": [1, 2]},
+    {"text": "The trophy pops at the chapter's end.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete Chapter 4. A story trophy — it pops when the chapter ends.",
+   "steps": [
+    {"text": "Play through Chapter 4's missions to the end.", "sources": [1, 2]},
+    {"text": "The trophy pops at the chapter's end.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete the final mission. Finish the story and the gold pops; after the credits, free-roam continues so everything else stays available.",
+   "steps": [
+    {"text": "Play the story through the final mission.", "sources": [1, 2]},
+    {"text": "The trophy pops at the end of the final mission, before the credits.", "sources": [1]},
+    {"text": "After the credits you return to free-roam — the 100% checklist opens under Progress, Stats.", "sources": [1, 3]}
+   ],
+   "sources": [1, 2, 3],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 1,
+   "count": null,
+   "guide": "Complete the mission Breakfast Run. A story mission trophy — finish the mission and it pops.",
+   "steps": [
+    {"text": "Play the story mission Breakfast Run.", "sources": [1, 2]},
+    {"text": "The trophy pops when the mission ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete the mission The Cartel Heist. A story mission trophy — finish the mission and it pops.",
+   "steps": [
+    {"text": "Play the story mission The Cartel Heist.", "sources": [1, 2]},
+    {"text": "The trophy pops when the mission ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete the mission Child's Play. A story mission trophy — finish the mission and it pops.",
+   "steps": [
+    {"text": "Play the story mission Child's Play.", "sources": [1, 2]},
+    {"text": "The trophy pops when the mission ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete the mission Headliners. A story mission trophy — finish the mission and it pops.",
+   "steps": [
+    {"text": "Play the story mission Headliners.", "sources": [1, 2]},
+    {"text": "The trophy pops when the mission ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete the mission VCIA Takedown. A story mission trophy — finish the mission and it pops.",
+   "steps": [
+    {"text": "Play the story mission VCIA Takedown.", "sources": [1, 2]},
+    {"text": "The trophy pops when the mission ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "watch": false,
+   "stage": 2,
+   "count": null,
+   "guide": "Complete the mission Operation Savage Glory. A story mission trophy — finish the mission and it pops.",
+   "steps": [
+    {"text": "Play the story mission Operation Savage Glory.", "sources": [1, 2]},
+    {"text": "The trophy pops when the mission ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits — story trophies cannot be missed."
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 100,
+   "guide": "The hardest trophy: reach 100% completion on the in-game checklist, which opens under Progress, Stats after the credits. It is closer to 60% of true completion — most side quests are not required, and collectibles are only partly required.",
+   "steps": [
+    {"text": "Finish the story first — the checklist stays hidden until the credits roll.", "sources": [1, 2, 9]},
+    {"text": "Work the checklist: every robbery, bank vault and gang operation, underwater discoveries, shooting ranges, drone races, Bret's Target Decks and 70 of the 80 challenges.", "sources": [1, 3]},
+    {"text": "Scan 200 of 277 base-model vehicles and study 100 of 255 animals along the way — both count toward 100%.", "sources": [1]},
+    {"text": "Finish 15 of the 18 card sets, 100 WAiNK locations and 100 Cocaine Flamingos.", "sources": [2, 3]}
+   ],
+   "sources": [1, 2, 3],
+   "verdict": {"status": "disputed",
+    "a": {"text": "About 200 hours to the platinum, difficulty 4/10.", "sources": [1, 2, 3]},
+    "b": {"text": "200 to 250 hours or more, up to 300 hours or more; difficulty 7/10 in some guides.", "sources": [6, 5, 9]},
+    "call": "Budget 200 hours as the floor and 250+ as the plan. The hours are the dispute — the checklist is not: every item on it is listed in the guides, and it only opens after the credits.",
+    "note": "Every guide names A Long Road the hardest trophy; they disagree only on how long it takes."},
+   "safePlay": "Keep a manual save at the start and end of each chapter — 15 manual slots plus one autosave — and never touch a cheat: cheats disable trophies and saving.",
+   "lastChance": "Safe after the credits — the checklist only opens then, and everything on it stays available."
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": 250,
+   "guide": "Complete 250 stunts. There are 397 stunts across the map — stunt jumps, flights under bridges, knife flights and base jumps — and 100% completion needs 300, so this pops on the way to A Long Road.",
+   "steps": [
+    {"text": "Do any 250 stunts: stunt jumps, bridge flights, knife flights and base jumps all count.", "sources": [6, 1]},
+    {"text": "The map tracks them; check Progress to see how many are left.", "sources": [1]}
+   ],
+   "sources": [6, 1],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": 9,
+   "guide": "Try each of the 9 activity types once: fishing, hunting, golf, shooting ranges, pool, basketball, a video game, a race and a stunt.",
+   "steps": [
+    {"text": "Try one of each: fishing, hunting, golf, shooting range, pool, basketball, arcade game, race, stunt.", "sources": [6, 1]},
+    {"text": "The trophy pops on the ninth type — none of them needs to be won or finished.", "sources": [1]}
+   ],
+   "sources": [6, 1],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": 42,
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges. Ranges stay open after the story, so this is a cleanup trophy, not a race.",
+   "steps": [
+    {"text": "Visit a shooting range and work through all 42 challenges.", "sources": [1, 2]},
+    {"text": "Each challenge needs a gold medal — replay any that fall short; ranges stay open after the story.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "verdict": {"status": "confirmed", "call": "Confirmed: 42 Shooting Range challenges, gold in all of them. The count matches across the official list, PowerPyx and KeenGamer.", "note": "The 42 is also one of the 100% checklist items, so this trophy and A Long Road share the work."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": 14,
+   "guide": "Win a Top Fun Drone Race at every location — 14 locations across Leonida.",
+   "steps": [
+    {"text": "Find the Top Fun drone races: 14 locations across Leonida.", "sources": [1, 2]},
+    {"text": "Win one race at each location; a win at a location you already won does not double-count.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": 20,
+   "guide": "Win 20 different races. Road, off-road, boat or air — any mix counts, as long as each race is a different one.",
+   "steps": [
+    {"text": "Win 20 different races — road, off-road, boat or air, any mix.", "sources": [1, 2]},
+    {"text": "Each race counts once; replays of a race you already won do not add to the 20.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Beat Cal in a fishing challenge. Fishing is also one of the 9 activity types, so this ticks toward Master of None too.",
+   "steps": [
+    {"text": "Take Cal on in a fishing challenge.", "sources": [1, 2]},
+    {"text": "Win the challenge against Cal.", "sources": [1]},
+    {"text": "Fishing is one of the 9 activity types, so this also counts toward Master of None.", "sources": [6]}
+   ],
+   "sources": [1, 2, 6],
+   "lastChance": "Safe after the credits."
+  }
+,
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Complete an arcade game. Any arcade game counts, and it ticks one of the 9 activity types toward Master of None.",
+   "steps": [
+    {"text": "Play an arcade game to completion.", "sources": [1, 2]},
+    {"text": "Any arcade game counts; it also ticks one of the 9 activity types.", "sources": [6]}
+   ],
+   "sources": [1, 2, 6],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": true,
+   "stage": 3,
+   "count": null,
+   "guide": "Complete the final mission for Andy. Andy's strand is Lucia-only, so play it as Lucia — and finish it before the finale.",
+   "steps": [
+    {"text": "Play Andy's mission strand to its final mission.", "sources": [1, 2]},
+    {"text": "Andy is Lucia-only — play the strand as Lucia.", "sources": [8]},
+    {"text": "Quest givers return after the story, but a Lucia-only strand needs Lucia.", "sources": [3]}
+   ],
+   "sources": [1, 2, 8, 3],
+   "safePlay": "Play Andy's strand as Lucia as soon as it appears, and keep a manual save from before the finale in case you pass it as Jason.",
+   "lastChance": "Andy is Lucia-only — finish her strand before the finale."
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 3,
+   "count": null,
+   "guide": "Complete the final mission for Kenton. Play Kenton's strand through to its last mission.",
+   "steps": [
+    {"text": "Play Kenton's mission strand to its final mission.", "sources": [1, 2]},
+    {"text": "Kenton's strand can be finished after the story.", "sources": [3]}
+   ],
+   "sources": [1, 2, 3],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 3,
+   "count": null,
+   "guide": "Complete the final mission for Billy. Play Billy's strand through to its last mission.",
+   "steps": [
+    {"text": "Play Billy's mission strand to its final mission.", "sources": [1, 2]},
+    {"text": "Billy's strand can be finished after the story.", "sources": [3]}
+   ],
+   "sources": [1, 2, 3],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": true,
+   "stage": 3,
+   "count": 8,
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida. Only some side questlines count, and PowerPyx is still confirming which ones — so do more than 8 strands if the trophy has not popped.",
+   "steps": [
+    {"text": "Play stranger strands across Leonida — 8 qualifying strands are needed.", "sources": [1, 6]},
+    {"text": "Not every side questline counts; do more than 8 strands if the trophy has not popped.", "sources": [1]},
+    {"text": "Strands can be finished after the story.", "sources": [3]}
+   ],
+   "sources": [1, 6, 3],
+   "safePlay": "Do stranger strands as they appear, and keep a save before the finale — the list of which strands qualify is still being confirmed.",
+   "lastChance": "Strands stay open after the story, but do them as they appear — some may be character-locked."
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 3,
+   "count": null,
+   "guide": "Complete the final mission for Randy. Play Randy's strand through to its last mission.",
+   "steps": [
+    {"text": "Play Randy's mission strand to its final mission.", "sources": [1, 2]},
+    {"text": "Randy's strand can be finished after the story.", "sources": [3]}
+   ],
+   "sources": [1, 2, 3],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": true,
+   "stage": 3,
+   "count": null,
+   "guide": "Complete the final mission for Tyrone. Tyrone's strand is Jason-only, so play it as Jason — and finish it before the finale.",
+   "steps": [
+    {"text": "Play Tyrone's mission strand to its final mission.", "sources": [1, 2]},
+    {"text": "Tyrone is Jason-only — play the strand as Jason.", "sources": [8]},
+    {"text": "Quest givers return after the story, but a Jason-only strand needs Jason.", "sources": [3]}
+   ],
+   "sources": [1, 2, 8, 3],
+   "safePlay": "Play Tyrone's strand as Jason as soon as it appears, and keep a manual save from before the finale in case you pass it as Lucia.",
+   "lastChance": "Tyrone is Jason-only — finish his strand before the finale."
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": true,
+   "watch": false,
+   "stage": 1,
+   "count": 18,
+   "guide": "Meditate at every spot across Leonida: 18 meditations at 10 spots. Most spots take two meditations — one as Jason, one as Lucia — plus the Chapter 1 balcony (Lucia) and the Ascent spot. The balcony is the one possibly missable step in the whole game.",
+   "steps": [
+    {"text": "In Chapter 1, after the mission Down to Earth, find Lucia at Jason's house in the morning; follow her to the balcony and meditate there — the one meditation that may be missable.", "sources": [1, 2, 4]},
+    {"text": "Meditate at the Ascent spot — 1 meditation.", "sources": [1]},
+    {"text": "Meditate at the other 8 spots with BOTH Jason and Lucia — 2 meditations per spot, 16 in total.", "sources": [1, 2]},
+    {"text": "Check the maths: balcony 1 + Ascent 1 + 8 spots × 2 = 18 meditations at 10 spots. The last spots need both characters, unlocked after Coffee Break in Chapter 2.", "sources": [1, 8]}
+   ],
+   "sources": [1, 2, 4, 8],
+   "verdict": {"status": "disputed",
+    "a": {"text": "18 meditations at 10 spots; the Chapter 1 balcony meditation counts and may be required.", "sources": [1, 2]},
+    "b": {"text": "Some pre-release guides count 15 meditations, and PowerPyx says it is still unconfirmed whether the balcony meditation is actually required.", "sources": [1, 9]},
+    "call": "Play it as 18 with the balcony done in Chapter 1 — the safe count. If the real total is 15, doing 18 still pops the trophy; skipping the balcony risks the one missable in the game.",
+    "note": "The count dispute is exactly why the safe play below exists: do the balcony first, count to 18, and the dispute stops mattering."},
+   "safePlay": "Make a manual save at the start of Chapter 1, before the mission Down to Earth. After that mission, go to Jason's house in the morning, follow Lucia to the balcony and meditate. Do NOT leave Chapter 1 without that meditation — there is no mission replay, and it is the only step in the game the guides flag as possibly missable.",
+   "lastChance": "Chapter 1 — the balcony meditation, before leaving Chapter 1. The other 9 spots stay open after Chapter 1.",
+   "items": [
+    {"id": "balcony", "label": "Balcony — Jason's house, Lucia (Chapter 1)"},
+    {"id": "ascent", "label": "Ascent spot — 1 meditation"},
+    {"id": "spot3-jason", "label": "Spot 3 of 10 — Jason"},
+    {"id": "spot3-lucia", "label": "Spot 3 of 10 — Lucia"},
+    {"id": "spot4-jason", "label": "Spot 4 of 10 — Jason"},
+    {"id": "spot4-lucia", "label": "Spot 4 of 10 — Lucia"},
+    {"id": "spot5-jason", "label": "Spot 5 of 10 — Jason"},
+    {"id": "spot5-lucia", "label": "Spot 5 of 10 — Lucia"},
+    {"id": "spot6-jason", "label": "Spot 6 of 10 — Jason"},
+    {"id": "spot6-lucia", "label": "Spot 6 of 10 — Lucia"},
+    {"id": "spot7-jason", "label": "Spot 7 of 10 — Jason"},
+    {"id": "spot7-lucia", "label": "Spot 7 of 10 — Lucia"},
+    {"id": "spot8-jason", "label": "Spot 8 of 10 — Jason"},
+    {"id": "spot8-lucia", "label": "Spot 8 of 10 — Lucia"},
+    {"id": "spot9-jason", "label": "Spot 9 of 10 — Jason"},
+    {"id": "spot9-lucia", "label": "Spot 9 of 10 — Lucia"},
+    {"id": "spot10-jason", "label": "Spot 10 of 10 — Jason"},
+    {"id": "spot10-lucia", "label": "Spot 10 of 10 — Lucia"}
+   ]
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": true,
+   "stage": 3,
+   "count": null,
+   "guide": "Hunt a unique animal for Bret. Bret's strand is Jason-only, and which animal counts as unique is still unconfirmed — see the verdict.",
+   "steps": [
+    {"text": "Play Bret's strand — the unique-animal hunt is one of his requests.", "sources": [1, 3]},
+    {"text": "Bret is Jason-only — hunt as Jason.", "sources": [8]},
+    {"text": "Study animals through the binoculars along the way: the 100% checklist wants 100 of 255 studied.", "sources": [1]}
+   ],
+   "sources": [1, 3, 8],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: no guide yet confirms which animal is the unique one or where it is. Hunt as Jason through Bret's strand and check player reports after launch.", "note": "Bret's Target Decks are part of the 100% checklist, so his strand is worth finishing either way."},
+   "safePlay": "Play Bret's strand as Jason as soon as it appears, and keep a manual save from before the finale.",
+   "lastChance": "Bret is Jason-only — finish his strand before the finale."
+  },
+  {
+   "id": 30,
+   "name": "Don't Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 3,
+   "guide": "Complete 3 Collectible Card sets. There are 18 sets in the game, and 100% completion needs 15 — so this pops early in the cleanup.",
+   "steps": [
+    {"text": "Collect cards and complete any 3 full sets.", "sources": [6, 2]},
+    {"text": "Cards are found across Leonida; keep collecting — 15 sets feed the 100% checklist.", "sources": [2, 5]}
+   ],
+   "sources": [6, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 100,
+   "guide": "WAiNK It at 100 locations. Landmarks, curiosities and sculptures all count — scan everything you pass.",
+   "steps": [
+    {"text": "Open the WAiNK phone app and scan 100 spots.", "sources": [6, 1]},
+    {"text": "Scan every new landmark as you travel — 100% completion also wants the WAiNK total.", "sources": [1]}
+   ],
+   "sources": [6, 1],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": 50,
+   "guide": "Complete 50 Challenges. There are 80 challenges in eight groups of ten, and 100% needs 70 — this pops on the way.",
+   "steps": [
+    {"text": "Complete any 50 of the 80 challenges.", "sources": [8, 1]},
+    {"text": "Challenges span combat, driving, exploration and more; check Progress for the groups.", "sources": [1]}
+   ],
+   "sources": [8, 1],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Possible once both characters can roam together, from Chapter 2.",
+   "steps": [
+    {"text": "Roam with your partner from Chapter 2 onward.", "sources": [6, 1]},
+    {"text": "Build a 4-star wanted level, then lose it and escape with your partner beside you.", "sources": [6]},
+    {"text": "Bank jobs give 4 stars reliably.", "sources": [6]}
+   ],
+   "sources": [6, 1],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. One run, three shops, same wanted level throughout.",
+   "steps": [
+    {"text": "With your partner, rob a shop — then two more, back-to-back.", "sources": [1, 2]},
+    {"text": "Keep the same wanted level through all three; if it drops or you are caught, start the run again.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 100,
+   "guide": "Discover 100 vehicles. Scan vehicles with WAiNK as you meet them — the 100% checklist wants 200 of 277 base models scanned, so this pops on the way.",
+   "steps": [
+    {"text": "Discover 100 different vehicles as you travel Leonida.", "sources": [1, 2]},
+    {"text": "Scan every new vehicle with the WAiNK app — the 100% checklist wants 200 of 277 base models scanned.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. A busy shootout with plenty of enemies in range is the easiest place.",
+   "steps": [
+    {"text": "Trigger Combat Focus with at least 5 enemies in range.", "sources": [1, 2]},
+    {"text": "Down all 5 before the focus ends.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Make an unscheduled departure at VCIA — Vice City International Airport. Leave by a route no timetable lists.",
+   "steps": [
+    {"text": "Go to Vice City International Airport.", "sources": [1, 2]},
+    {"text": "Leave by an unscheduled route — not through the terminal.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "The description is a joke, not an instruction: it points at Rhino tanks. What exactly counts is still unconfirmed — see the verdict.",
+   "steps": [
+    {"text": "Get the army's attention until Rhino tanks appear.", "sources": [1]},
+    {"text": "Engage the Rhinos; the exact trigger is unconfirmed, so try the obvious: destroy or survive them.", "sources": [1]}
+   ],
+   "sources": [1],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: the description names Rhinos and nothing else. No guide confirms the exact trigger yet — destroy, survive, or steal one, and check player reports after launch.", "note": "Do not chase this early; high wanted levels are easier to survive with late-game gear."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Rob a jewelry store without being detected. Plan the approach, get in and out with no alarms and no witnesses.",
+   "steps": [
+    {"text": "Pick a jewelry store and plan the approach.", "sources": [1, 2]},
+    {"text": "Get in and out without being detected — no alarms, no witnesses.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 5,
+   "guide": "Rob 5 Bank Vaults and escape. There are 8 vaults in total and 100% needs all 8; bank jobs open through an optional mission in Chapter 4.",
+   "steps": [
+    {"text": "Open bank jobs through the optional mission in Chapter 4.", "sources": [6, 1]},
+    {"text": "Rob 5 bank vaults and escape each time.", "sources": [6]},
+    {"text": "Keep going to 8 — the 100% checklist wants them all.", "sources": [6]}
+   ],
+   "sources": [6, 1],
+   "lastChance": "Safe after the credits."
+  }
+,
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Rob an Armored Truck and escape. Find a truck on the road, hit it, and get clear before the law closes in.",
+   "steps": [
+    {"text": "Find an armored truck on the road.", "sources": [1, 2]},
+    {"text": "Rob it and escape — the truck's guards and the law both count as the escape.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": null,
+   "guide": "Explore all of Leonida. The map fills in as you go — sweep the regions you have not visited: the coast, the swamps, the keys and the city.",
+   "steps": [
+    {"text": "Visit every area of Leonida — the map fills in as you go.", "sources": [1, 2]},
+    {"text": "Sweep the regions you have not visited: the coast, the swamps, the keys and the city.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": null,
+   "guide": "Rob an Illegal Operation belonging to each gang. The count is the gangs, not the operations — one per gang is enough.",
+   "steps": [
+    {"text": "Find illegal operations across Leonida.", "sources": [1, 2]},
+    {"text": "Rob one operation for each gang.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 1,
+   "count": null,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. The name is a nod to the very first GTA moment — a quiet drink with the view in front of you.",
+   "steps": [
+    {"text": "Go to Ocean Beach.", "sources": [1, 2]},
+    {"text": "Order a cocktail with the view in front of you.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Smash your way out of a vehicle showroom in classic style. Drive in, pick a car, and leave through the glass.",
+   "steps": [
+    {"text": "Go to a vehicle showroom.", "sources": [1, 2]},
+    {"text": "Drive out through the glass, in classic style.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Follow-through at the Kolt & Associates' bowling alley. Bowl a full game — follow-through is the point, not the score.",
+   "steps": [
+    {"text": "Go to the Kolt & Associates bowling alley.", "sources": [1, 2]},
+    {"text": "Bowl a full game.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": null,
+   "guide": "The vaguest description on the list — it points at the partnership, not at an action. What exactly triggers it is unconfirmed.",
+   "steps": [
+    {"text": "Play the story with your partner; the trigger is tied to the partnership.", "sources": [1]},
+    {"text": "No guide confirms the exact action yet — see the verdict.", "sources": [1]}
+   ],
+   "sources": [1],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: 'a partnership with mass appeal' names no action, no place and no count. No guide confirms the trigger yet — check player reports after launch.", "note": "The safest guess is a partner activity done well, but a guess is all it is, so this file will not dress it up as a fact."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": null,
+   "guide": "A count trophy about choices across the game — which choices count, and how many, is unconfirmed.",
+   "steps": [
+    {"text": "Make choices as they come up in missions and the open world.", "sources": [1]},
+    {"text": "The exact count is unconfirmed; keep choosing and check Progress.", "sources": [1]}
+   ],
+   "sources": [1],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: the description says 'choices made' and nothing else. No guide confirms which choices count or how many are needed.", "note": "Choice trophies in past games tracked a hidden counter; assume the same here and do not grind one choice."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Something that fails first and succeeds second — which attempt it is, is unconfirmed.",
+   "steps": [
+    {"text": "Fail once, then succeed at the same thing.", "sources": [1]},
+    {"text": "The exact trigger is unconfirmed — see the verdict.", "sources": [1]}
+   ],
+   "sources": [1],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: 'second time's the charm' fits a dozen activities. No guide confirms which one the trophy watches.", "note": "Do not force-fail things on purpose; the natural second try during the game is the likely trigger."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": null,
+   "guide": "A strange-event trophy — the event itself is unconfirmed. Keep an eye out for something strange while exploring.",
+   "steps": [
+    {"text": "Keep an eye out for something strange while exploring Leonida.", "sources": [1]},
+    {"text": "The exact event is unconfirmed; player reports are still coming in.", "sources": [1]}
+   ],
+   "sources": [1],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: the description is a reaction, not an instruction. No guide confirms the event — likely a rare world encounter.", "note": "Rare-event trophies in past games needed a specific place and time; expect the same here once players map it."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 4,
+   "count": null,
+   "guide": "Bowl 'em over with a melee drive-by — strike someone down with a melee weapon from a moving vehicle. The precise method is still being confirmed.",
+   "steps": [
+    {"text": "From a moving vehicle, knock someone down with a melee weapon.", "sources": [2]},
+    {"text": "The precise method is still being confirmed — see the verdict.", "sources": [2]}
+   ],
+   "sources": [2],
+   "verdict": {"status": "unconfirmed", "call": "Unconfirmed: KeenGamer itself says the precise method is still being confirmed. The name says melee plus drive-by; the target and the weapon are not settled.", "note": "Try pedestrians from a slow-moving car with a bat; if it does not pop, wait for player reports."},
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 250000,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Collect the bills from robberies and jobs, then clean them through your contacts.",
+   "steps": [
+    {"text": "Collect Marked Bills from robberies and jobs.", "sources": [1, 2]},
+    {"text": "Launder them through your contacts until $250,000 is clean.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 100000,
+   "guide": "Spend $100,000 across all shops. Any shop spending counts toward the total — it adds up fast once you are buying vehicles and gear.",
+   "steps": [
+    {"text": "Spend $100,000 in total across Leonida's shops.", "sources": [1, 2]},
+    {"text": "Any shop spending counts toward the total.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 8,
+   "guide": "Purchase all garage properties — 8 in total. Buy them as they come on the market; all 8 are needed.",
+   "steps": [
+    {"text": "Buy garage properties as they come on the market.", "sources": [2, 1]},
+    {"text": "All 8 are needed.", "sources": [2]}
+   ],
+   "sources": [2, 1],
+   "lastChance": "Safe after the credits."
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "watch": false,
+   "stage": 5,
+   "count": 10,
+   "guide": "Register 10 vehicles to the Scooter Bros app. Open the app and register 10 different vehicles through it.",
+   "steps": [
+    {"text": "Open the Scooter Bros app.", "sources": [1, 2]},
+    {"text": "Register 10 different vehicles through it.", "sources": [1]}
+   ],
+   "sources": [1, 2],
+   "lastChance": "Safe after the credits."
+  }
+ ]
+}

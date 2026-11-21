@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Case File — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark">LC</div>
+    <div>
+      <h1>LEONIDA CASE FILE</h1>
+      <p class="tagline">GTA VI trophy guide &amp; tracker — every trophy is a case: claim, evidence, verdict, safe play.</p>
+    </div>
+  </div>
+  <div class="progress-wrap">
+    <div class="progress-line"><span id="progressText">13 / 55 earned</span><span id="gradeBreak">P 0/1 · G 0/2 · S 0/6 · B 13/46</span></div>
+    <div class="progress-bar"><div id="progressFill" style="width:23.6%"></div></div>
+    <div class="progress-sub"><span id="savedNote">Saved in this browser</span><span>Demo state: 13 earned — tick your own, it saves.</span></div>
+  </div>
+  <div class="top-actions">
+    <button id="exportBtn" type="button">Export</button>
+    <button id="importBtn" type="button">Import</button>
+    <input id="importFile" type="file" accept="application/json,.json" hidden>
+    <button id="resetBtn" type="button">Reset</button>
+    <label class="spoiler-toggle"><input id="spoilerToggle" type="checkbox" checked> Hide story spoilers</label>
+  </div>
+</header>
+
+<div id="auditStrip" class="audit-strip" aria-label="Audit totals"></div>
+
+<div class="missable-banner" role="alert">⚠ 1 POSSIBLY MISSABLE — <strong>Positive Mental Attitude</strong>: meditate on the Chapter 1 balcony (Jason&rsquo;s house, Lucia, after Down to Earth) before leaving Chapter 1. Every other trophy can be earned after the story.</div>
+
+<nav class="tabs" aria-label="Sections">
+  <button class="tab active" data-tab="tracker" type="button">Tracker</button>
+  <button class="tab" data-tab="roadmap" type="button">Roadmap</button>
+  <button class="tab" data-tab="missables" type="button">Missables &amp; Watch</button>
+  <button class="tab" data-tab="sources" type="button">Sources &amp; Honesty</button>
+</nav>
+
+<main>
+  <section id="tab-tracker" class="tabpage active">
+    <div class="nextup" id="nextUp"></div>
+    <div class="stage-chips" id="stageChips"></div>
+    <div class="columns">
+      <aside class="col-left">
+        <div class="filter-row">
+          <input id="searchBox" type="search" placeholder="Search name, description or guide…" aria-label="Search trophies">
+        </div>
+        <div class="chips" id="filterChips"></div>
+        <div class="sort-row">
+          <label>Order
+            <select id="sortSelect">
+              <option value="roadmap">Roadmap order</option>
+              <option value="official">Official order</option>
+              <option value="grade">Grade</option>
+              <option value="name">Name A–Z</option>
+            </select>
+          </label>
+          <span id="listCount"></span>
+        </div>
+        <ul class="checklist" id="checklist"></ul>
+      </aside>
+      <article class="col-mid" id="detail"></article>
+      <aside class="col-right" id="sourceRail"></aside>
+    </div>
+  </section>
+
+  <section id="tab-roadmap" class="tabpage">
+    <div id="roadmapMeta" class="meta-chips"></div>
+    <div id="roadmapStages" class="stage-grid"></div>
+    <div class="method-box" id="methodBox"></div>
+  </section>
+
+  <section id="tab-missables" class="tabpage">
+    <div id="missablesList" class="missable-cards"></div>
+  </section>
+
+  <section id="tab-sources" class="tabpage">
+    <div id="sourceMatrix"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Original design and guide text for this entry; no Rockstar Games logo, artwork or screenshots. Official names, descriptions and grades as published by PlayStation. The game launched 19 Nov 2026 — 13 years after GTA V (Sep 2013) — so every pre-release guide is a compilation; where sources disagree this file shows both versions and calls it.</p>
+  <p class="fine">Leonida Case File · GTA VI (PS5) · 55 trophies · Built from sources read 20–21 Nov 2026 · make.fun referral: nmy46sr8</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
